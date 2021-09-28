@@ -3,6 +3,7 @@
 Drum roll plsssssss. Hi there!! I am Nathaniel. I think i'm a frontend developer but I could be wrong.
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaniel123x3rd&show_icons=true&theme=synthwave)
 
 ---------------------
  - Discord : Nathanielx3rd#1256
