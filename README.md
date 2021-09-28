@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
+- 
 ---------------------
  - Discord : Nathanielx3rd#1256
  - Tiktok : nathanielmohamed
