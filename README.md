@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nathaniel123x3rd
-- 👀 I’m interested in anything front-end
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
-- 
+![image](https://nathaniel123x3rd.github.io/stacked-icons/random.gif)
+# Intro
+Drum roll plsssssss. Hi there!! I am Nathaniel. I think i'm a frontend developer but I could be wrong.
+
+
+
 ---------------------
  - Discord : Nathanielx3rd#1256
  - Tiktok : nathanielmohamed
