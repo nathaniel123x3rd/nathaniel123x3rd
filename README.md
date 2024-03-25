@@ -11,7 +11,7 @@ Drum roll plsssssss. Hi there!! I am Nathaniel. I think i'm a frontend developer
  - Tiktok : nathanielmohamed
   - email : prettylies1223@gmail.com
   - Instagram : NathanXppX
-  - website : https://home.nathanielx3rd.repl.co/
+  - website : https://nathaniel.world/
   
 
 
